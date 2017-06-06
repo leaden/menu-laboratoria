@@ -1,0 +1,41 @@
+
+
+
+/* codigo menu-laboratoria*/
+nav ul li {
+	text-decoration: none;
+	list-style: none;
+	font-size: 20px;    
+}
+
+.lista{
+    border-right: solid 1px black;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+nav a {
+	cursor: pointer;
+	color: white;
+	text-decoration: none;
+	list-style: none;     
+}
+
+nav ul {
+	height: 51px;
+	margin-top: 0px;
+}
+
+nav{
+	background-color: #FFB2B2;	
+}
+
+li:hover{
+	background-color: #B24444;
+}
+
+/*li{
+	text-align: center;
+}
+*/
