@@ -59,7 +59,16 @@ li:hover{
 	border-bottom: 1px solid;
 }
 
+
 .oculto{
 	display: none;
 }
 
+#icono:hover{
+	color: #B24444;
+}
+
+.listadesple a:hover{
+	color: #B24444;
+	
+}

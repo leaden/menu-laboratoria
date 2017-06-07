@@ -1,9 +1,11 @@
 @media(min-width: 1px) and (max-width: 661px){
    /* desaparece el nav al ajustar la pantalla*/
    nav{
-   	display: none;
+   	display: none; 
    }	
-
+ #oculto{
+ 	display: block;
+ }
 
 body{
 	background-color: black;
@@ -11,3 +13,4 @@ body{
 }
 
 }
+
